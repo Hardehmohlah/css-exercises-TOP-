@@ -1,0 +1,14 @@
+.selected{
+    background-color: pink;
+}
+.selected.different{
+    font-size: xx-large;
+}
+#no1{
+    color: blue;
+    font-size: xx-large;
+}
+#no2{
+    background-color: green;
+    font-size: x-large;
+}
